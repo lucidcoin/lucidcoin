@@ -3,7 +3,8 @@ lucidcoin integration/staging tree
 
 http://www.lucidcoin.org
 
-Copyright (c) 2009-2013 lucidcoin Developers
+Copyright (c) 2017 lucidcoin Developers
+Copyright (c) 2009-2013 bitcoin Developers
 
 What is lucidcoin?
 ----------------
