@@ -99,7 +99,6 @@ public:
         assert(hashGenesisBlock == uint256("0x00000000607175f0143f7099f8263b68345e5b5b8d1bbb5c65962c2eaa44e797"));
         assert(genesis.hashMerkleRoot == uint256("0x1acd1fa0b1bb87623e4aa6d8b48d3406e79ddd71c9672af12b7433beff2e9c42"));
 
-        vSeeds.push_back(CDNSSeedData("walletbuilders.com", "node.walletbuilders.com"));
         vSeeds.push_back(CDNSSeedData("188.166.156.207", "188.166.156.207"));
 
         base58Prefixes[PUBKEY_ADDRESS] = list_of(48);
